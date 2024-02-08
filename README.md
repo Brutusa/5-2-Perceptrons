@@ -25,5 +25,7 @@ Read the [PDF](/Explained.pdf) for more information.
 ![design of 5-2 Perceptron](/Screenshots/1.png)
 
 GUI made with React.js, axios.js, & TypeScript
+
 Backend made with Java & SpringBoot
+
 Programmed by Andujar Brutus
