@@ -24,7 +24,7 @@ Read the [PDF](/Explained.pdf) for more information.
 ### Drive/Stop Perceptron GUI output
 ![design of 5-2 Perceptron](/Screenshots/1.png)
 
-GUI made with React.js, axios.js, & TypeScript
+GUI made with React.js, Axios.js, & TypeScript
 
 Backend made with Java & SpringBoot
 
