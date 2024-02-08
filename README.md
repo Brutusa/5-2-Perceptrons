@@ -1,5 +1,5 @@
 # 5-2 Perceptrons with practical use
-# Bright/Dark Perceptron + Drive/Stop Perceptron
+### Bright/Dark Perceptron + Drive/Stop Perceptron
 Read the [PDF](/Explained.pdf) for more information.
 
 # Perceptron Design
