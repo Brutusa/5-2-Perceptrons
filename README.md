@@ -1,4 +1,5 @@
-# Practical Perceptr
+# 5-2 Perceptron with practical use
+Read the [PDF](/Explained.pdf) for more information.
 
 # Perceptron Design
 ### 5-2 Perceptron
